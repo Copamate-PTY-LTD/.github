@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚙️ Copamate - Internal Tools & Automation
+# ⚙️ Copamate
 
 **Melbourne's premier custom engineering solutions company.**
 *Building smarter workflows to power precision manufacturing.*
